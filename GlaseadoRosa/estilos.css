@@ -1,0 +1,59 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #fff0f5;
+}
+
+.container {
+    margin-top: 50px;
+    background-color: #ffe4ec;
+    border-radius: 15px;
+    padding: 30px;
+    box-shadow: 0 0 10px rgba(255, 192, 203, 0.4);
+}
+
+h1, h2 {
+    color: #d46a92;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.btn {
+    border-radius: 20px;
+}
+
+.btn-success {
+    background-color: #f78fb3;
+    border: none;
+}
+
+.btn-success:hover {
+    background-color: #f368a5;
+}
+
+.btn-info {
+    background-color: #f3a683;
+    border: none;
+}
+
+.btn-warning {
+    background-color: #f7d794;
+    border: none;
+}
+
+.btn-danger {
+    background-color: #f8a5c2;
+    border: none;
+}
+
+.form-control {
+    border-radius: 10px;
+}
+
+.table thead {
+    background-color: #ffc0cb;
+    color: white;
+}
+
+.table tbody tr:hover {
+    background-color: #fff5f8;
+}
